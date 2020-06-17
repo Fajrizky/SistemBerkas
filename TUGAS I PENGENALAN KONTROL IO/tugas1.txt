@@ -10,3 +10,6 @@ Direktori yang diperlihatkan pada gambar tersebut adalah untuk satu unit (mis. d
 Labelnya berisi identifikasi informasi, akses kontrol informasi, dan sebuah pointer yang menunjuk ke isi tabel, yang berisi kontrol blok untuk setiap berkas pada unit tersebut.
 Sebuah kontrol blok berisi informasi tentang nama berkas, atributnya (seperti panjang record, ukuran blok, organisasi berkas) dan batasannya pada media penyimpanan. Sebuah kontrol blok menunjukkan awal dari berkas yang bersangkutan. Jadi bila sebuah berkas dicari, isi tabel dari unit yang dimaksud diperiksa untuk menemukan berkas pada media penyimpanan.
 
+3. Aktifitas I/O  terutama  mencakup  perpindahan  data  antara  main memory dengan alat penyimpanan  sekunder  atau  alat  I/O,  seperti printer, terminal, dan card reader/punch. Operasi I/O memerlukan dukungan kontrol alat secara terinci.
+
+4. 

@@ -4,3 +4,9 @@
 4.  Berikan contoh penerapannya!
 
 1. Sebuah sistem kontrol I/O bertujuan untuk memberikan bantuan kepada user untuk memungkinkan mereka mengakses berkas, tanpa memperhatikan detail dari karakteristik dan waktu penyimpanan. Kontrol I/O menyangkut manajemen berkas dan peralatan manajemen yang merupakan bagian dari sistem operasi.
+
+2. Sebelum berkas dapat diakses oleh sebuah program, sistem operasi harus mengetahui pada alat penyimpanan sekunder yang mana berkas tersebut berada.
+Direktori yang diperlihatkan pada gambar tersebut adalah untuk satu unit (mis. disk pack atau tape reel) dari penyimpanan sekunder.
+Labelnya berisi identifikasi informasi, akses kontrol informasi, dan sebuah pointer yang menunjuk ke isi tabel, yang berisi kontrol blok untuk setiap berkas pada unit tersebut.
+Sebuah kontrol blok berisi informasi tentang nama berkas, atributnya (seperti panjang record, ukuran blok, organisasi berkas) dan batasannya pada media penyimpanan. Sebuah kontrol blok menunjukkan awal dari berkas yang bersangkutan. Jadi bila sebuah berkas dicari, isi tabel dari unit yang dimaksud diperiksa untuk menemukan berkas pada media penyimpanan.
+

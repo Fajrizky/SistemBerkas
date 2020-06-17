@@ -13,3 +13,43 @@ Sebuah kontrol blok berisi informasi tentang nama berkas, atributnya (seperti pa
 3. Aktifitas I/O  terutama  mencakup  perpindahan  data  antara  main memory dengan alat penyimpanan  sekunder  atau  alat  I/O,  seperti printer, terminal, dan card reader/punch. Operasi I/O memerlukan dukungan kontrol alat secara terinci.
 
 4. 
+
+
+Peralatan Input:
+Input Yaitu sejumlah komponen atau alat yang digunakan user untuk memasukkan data ke dalam komputer untuk diproses lebih lanjut agar menghasilkan informasi yang dibutuhkan. Beberapa contoh alat input antara lain
+
+a.Keyboard
+b. Mouse
+c. Joystick
+d. Scanner
+e. Lightpen
+f. Trackball
+g. Touch Sreen
+h. Magnetic Ink Character Reader (MICR)
+i. Optical Character Reader (OCR)
+j. Optical Mark Recognition (OMR) Reader
+k. dll
+
+Peralatan Output:
+Alat Output Peralatan output adalah peralatan yang digunakan untuk membawa data keluar komputer atau juga untuk memindahkan data dari komputer ke perangkat lainnya. Berdasarkan bentuk outputnya, unit output terdiri dari:
+a. Monitor
+b. Printer dan Plotter
+c. Proyektor
+d. Microform
+
+Peralatan Input / Output
+a. Disk Drive
+b. Tape Drive
+c. Modem (Modulator Demudolator)
+d. Ethernet
+e. PCMCIA
+f. Hub
+g. Switch
+h. Print Server
+i. Input / Output Card (I / O Card)
+j. SCII Card
+k. Terminal
+l. CD – Room (Compac Disk-Read Only memory)
+m. CD-Read and writer
+n. DVD-Room
+o. DVD-Read and Writer

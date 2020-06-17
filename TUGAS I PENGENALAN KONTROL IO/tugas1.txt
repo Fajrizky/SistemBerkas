@@ -1,0 +1,5 @@
+1.	Jelaskan definisi dan persyaratan kontrol I/O!
+2.	Jelaskan pengertian direktori berkas dan kontrol informasi!
+3.	Jelaskan pengertian kontrol peralatan!
+4.  Berikan contoh penerapannya!
+

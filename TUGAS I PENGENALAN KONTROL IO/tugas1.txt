@@ -3,3 +3,4 @@
 3.	Jelaskan pengertian kontrol peralatan!
 4.  Berikan contoh penerapannya!
 
+1. Sebuah sistem kontrol I/O bertujuan untuk memberikan bantuan kepada user untuk memungkinkan mereka mengakses berkas, tanpa memperhatikan detail dari karakteristik dan waktu penyimpanan. Kontrol I/O menyangkut manajemen berkas dan peralatan manajemen yang merupakan bagian dari sistem operasi.
